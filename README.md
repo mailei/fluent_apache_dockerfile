@@ -1,8 +1,8 @@
 # fluentd-uiとapache2がインストールされているubuntu18.04のイメージ
 * fluentd-uiの動作確認用イメージ
 
-* 詳しくは、以下のURL参照
-https://qiita.com/mailei/items/581e3d4a6016333d8b12
+* 詳しくは、以下のURL参照  
+  https://qiita.com/mailei/items/581e3d4a6016333d8b12
 
 fluentdのcinfig設定
 
