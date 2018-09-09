@@ -4,7 +4,7 @@
 * 詳しくは、以下のURL参照  
   https://qiita.com/mailei/items/581e3d4a6016333d8b12
 
-fluentdのcinfig設定
+fluentdのconfig設定
 
 ```
 送信側
